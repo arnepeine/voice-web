@@ -148,7 +148,7 @@ speak = Sprechen
 speak-now = Sprechen Sie jetzt
 datasets = Datensätze
 languages = Sprachen
-about = Über uns
+about = 
 profile = Profil
 help = Hilfe
 contact = Kontakt
@@ -165,8 +165,8 @@ logout = Abmelden
 
 ## Home Page
 
-home-title = Das Common-Voice-Projekt ist eine Initiative von Mozilla, die dabei helfen soll, Geräten beizubringen, wie echte Menschen sprechen.
-home-cta = Mund aufmachen, Projekt unterstützen, mitarbeiten!
+home-title = Wir von Mona.icu wollen verstehen, wie Menschen sprechen. Dafür benötigen wir deine Stimme. Wir spenden eine Polio-Impfung an UNICEF für jeden Satz, der über diese Seite vermittelt wird.
+home-cta = Ein Satz = Eine Polio-Impfung 
 wall-of-text-start = Sprache ist natürlich, Sprache ist menschlich. Deshalb sind wir davon fasziniert, brauchbare Technologien zur Spracherkennung für unsere Geräte zu erschaffen. Allerdings wird zur Entwicklung sprachbasierter Systeme eine sehr große Menge an Aufnahmen von gesprochener Sprache benötigt.
 wall-of-text-more-mobile = Der überwiegende Teil der von großen Unternehmen genutzten Daten ist für die Mehrheit der Menschen jedoch nicht zugänglich. Wir glauben, dass dadurch Innovation unterbunden wird. Aus diesem Grund haben wir das Projekt Common Voice ins Leben gerufen, ein Projekt, das dabei hilft, Spracherkennung für jeden zugänglich zu machen.
 wall-of-text-more-desktop = Nun ist es an Ihnen! Helfen Sie uns, indem Sie Ihre Stimme spenden, eine gemeinfreie Sprachdatenbank aufzubauen, mit der jeder von nun an innovative Geräte- oder Webanwendungen erschaffen kann.<lineBreak></lineBreak>Lesen Sie einen Satz vor, um Geräten ein Verständnis davon zu geben, wie echte Menschen sprechen. Überprüfen Sie die Arbeit anderer, die bereits mitgewirkt haben, um die Qualität der Datenbasis zu steigern. Und das ist auch schon alles!
